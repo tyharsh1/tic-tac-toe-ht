@@ -1,9 +1,6 @@
 🎮 Tic-Tac-Toe Game
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend and enjoy this classic game!
 
-🖥️ Live Demo
-Play Tic-Tac-Toe (Replace with your actual GitHub Pages link if deployed)
-
 📌 Features
 ✅ Two-player mode
 ✅ Interactive UI with smooth animations
@@ -42,7 +39,7 @@ To run this game locally:
 sh
 Copy
 Edit
-git clone [https://github.com/tyharsh1/Yodha-project-/]
+git clone [https://github.com/tyharsh1/tic-tac-toe-ht/]
 cd TicTacToe
 open index.html
 💡 Future Enhancements
